@@ -2,3 +2,7 @@ langchain
 langgraph
 fastapi
 pydantic
+langchain-core
+uvicorn
+boto3
+awscli
